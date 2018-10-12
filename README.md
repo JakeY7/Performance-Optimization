@@ -1,7 +1,7 @@
 # Performance-Optimization Used in projects
 
 Redux:<br/>
-  U+0020 reselector<br/>
+   reselector<br/>
 React:<br/>
   
   
