@@ -1,7 +1,7 @@
 # Performance-Optimization Used in projects
 
 Redux:<br/>
-  reselector
+  reselector<br/>
 React:<br/>
   
   
